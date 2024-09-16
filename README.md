@@ -32,7 +32,7 @@ Você pode explorar todos os meus projetos no meu [repositório GitHub](#).
 
 ---
 
-## 🎲 **Habilidades & Feitiços** 🎲
+## 🎲 **Habilidades** 🎲
 
 **Linguagens de Programação**:
 
