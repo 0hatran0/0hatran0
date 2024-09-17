@@ -1,8 +1,8 @@
-# 🧙‍♂️ **Bem-vindo à Guilda do Desenvolvedor** 🧙‍♂️
+# 🧙‍♂️ **Bem-vindos ao meu GitHub** 🧙‍♂️
 
-**Classe:** Desenvolvedor de Software  
+**Cursando:** Desenvolvimento de Sistemas  
 **Nível:** Jovem Aprendiz <!--(Nível 5)-->  
-**Especialização:** Full Stack
+**Especialização:** Desenvolvedor Full Stack
 
 ---
 
@@ -32,7 +32,7 @@ Você pode explorar todos os meus projetos no meu [repositório GitHub](#).
 
 ---
 
-## 🎲 **Habilidades & Feitiços** 🎲
+## 🎲 **Habilidades** 🎲
 
 **Linguagens de Programação**:
 
@@ -49,23 +49,11 @@ Você pode explorar todos os meus projetos no meu [repositório GitHub](#).
 
 ---
 
-## 🏰 **Guildas e Aliados** 🏰
+## 🗺️ **Contatos** 🗺️
 
-Aqui estão mais canais que compartilho da minha expericencia:
+<!--Caso você tenha uma missão desafiadora ou precise de um aliado para enfrentar projetos épicos, entre em contato através de:-->
 
-<!--Sou membro de várias guildas profissionais onde compartilho meus conhecimentos e troco feitiços de codificação:-->
-
-- [LinkedIn](#)
-<!--- [Twitter](#)
-- [Blog Pessoal](#)-->
-
----
-
-## 🗺️ **Contatos para Novas Missões** 🗺️
-
-Caso você tenha uma missão desafiadora ou precise de um aliado para enfrentar projetos épicos, entre em contato através de:
-
-- 📜 **E-mail**: [meuemail@dominio.com](mailto:meuemail@dominio.com)
+- 📜 **E-mail**: [meuemail@dominio.com](#)
 - 🧭 **LinkedIn**: [linkedin.com/in/meuperfil](#)
 - 🔮 **GitHub**: [github.com/meuperfil](#)
 
@@ -74,6 +62,10 @@ Caso você tenha uma missão desafiadora ou precise de um aliado para enfrentar 
 ### 🎖️ **Conquistas** 🎖️
 
 🏆 Certificado em Desenvolvimento Full Stack (Em procedimento)
+
+### **Status**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0hatran0&show_icons=true&theme=gruvbox)
 
 <!--🏆 Finalista do Hackathon "Battle of Code"
 🏆 Participação em projetos open-source-->
