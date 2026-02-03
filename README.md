@@ -66,7 +66,7 @@ Você pode explorar todos os meus projetos no meu [repositório GitHub](#https:/
 <!--Caso você tenha uma missão desafiadora ou precise de um aliado para enfrentar projetos épicos, entre em contato através de:-->
 
 - 📜 **E-mail**: [hatran.ms@aluno.ifsc.edu.br](#)
-- 🧭 **LinkedIn**: [linkedin.com/in/hátran-maffini-de-souza](#linkedin.com/in/hátran-maffini-de-souza-101142284)
+- 🧭 **LinkedIn**: [linkedin.com/in/hátran-maffini-de-souza-101142284](#linkedin.com/in/hátran-maffini-de-souza-101142284)
 - 🔮 **GitHub**: [https://github.com/0hatran0](#https://github.com/0hatran0)
 
 ---
